@@ -110,7 +110,7 @@ public class Main {
         }
         boolean freeMax = free > two && free > one;
         if (freeMax) {
-            System.out.println("Наибольшее число " + free);
+            System.out.println("Наибольшее число = " + free);
         }
 
 
